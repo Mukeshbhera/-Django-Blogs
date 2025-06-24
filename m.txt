@@ -1,0 +1,64 @@
+python -m venv env
+Scripts\activate
+git 
+pip install -r requirements.txt
+pip freeze > requirements.txt
+
+python manage.py drf_create_token yourusername
+python manage.py shell
+
+git checkout -b master
+mere ko main branch me se data ko master me branch me tranfer krna h data ko 
+
+git init
+git add .
+git status
+git commit -m "xyz"git 
+git remote add origin ....
+git branch -M main  # Rename master to main (recommended)
+git push -u origin main
+
+git checkout main
+git checkout -b master
+git push -f origin master
+git push origin --delete main
+
+git pull origin master --rebase  
+git push -u origin master
+git push origin master --force
+
+git checkout main
+git branch -D master
+git checkout -b master
+git push -f origin master
+
+echo.>.gitignore
+rm -rf .git
+
+		
+
+https://github.com/git-adrianrubico/Django-Portfolio-Render.git
+https://github.com/git-adrianrubico/Django-Portfolio-Vercel.git
+https://github.com/git-adrianrubico/DjangoCrudAjax.git
+https://github.com/git-adrianrubico/SimpleDjangoPortfolio.git
+
+
+
+
+I would be able to grow my career and also have more opportunities to work on exciting projects and make good use of my 
+
+
+
+My first goal is that if I join a company, I just have to give as much time as possible to the company or complete whatever task is given to me quickly. We should not always consider our job as our job. I believe that we should consider our job as our family.
+
+
+
+My goal for the next 6 months is to be associated with the company for a long time. As a fresher, the time given to me by the company has given me many opportunities to work on exciting projects, so I would like to work on the opportunity given to me by the company with full responsibility.
+
+
+I like project work very much. I feel a different kind of happiness. I am a farmer's son. I never thought that I would ever get a chance to work in an IT company. Today I am very happy doing this work. My skills are very good. I am learning
+
+
+I am a farmer's son. Remembering this gives me the courage to move forward, I cannot stop now and when a farmer faces many problems, he forgets them all and moves forward.
+
+Yes, I would like the company to have more information about me.
